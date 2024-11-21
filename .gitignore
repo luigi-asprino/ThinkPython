@@ -25,3 +25,6 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+chapters-rev/thinkpython.py
+chapters-rev/diagram.py
+chapters-rev/.DS_Store
